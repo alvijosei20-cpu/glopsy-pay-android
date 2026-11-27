@@ -1,0 +1,2 @@
+-keep class com.glopsy.pay.sdk.** { *; }
+-keep class androidx.credentials.** { *; }
